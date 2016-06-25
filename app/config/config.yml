@@ -69,7 +69,7 @@ hwi_oauth:
     # list of names of the firewalls in which this bundle is active, this setting MUST be set
     firewall_names: [secured_area]
     resource_owners:
-        any_name:
+        google:
             type:                google
             client_id:           '595282529503-nknp153i2chp3bb48lt7krlce2abi3ra.apps.googleusercontent.com'
             client_secret:       '0bc83n8dYZGWO6DMNnAme_Da'
